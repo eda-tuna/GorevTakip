@@ -1,0 +1,10 @@
+{
+    "task" : [
+        { "id": 1, "title": "Görev 1" },
+        { "id": 2, "title": "Görev 2" }
+    ],
+    "person" : [
+        { "id": 1, "name": "Nurettin" },
+        { "id": 2, "name": "Eda" }
+    ]
+}

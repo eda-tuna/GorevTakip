@@ -1,0 +1,8 @@
+.custom-warning-border{
+    display: flex-center;
+    color: var(	--bs-dark);
+    border: 5px solid var(		--bs-border-color);
+    padding: 10px;
+    border-radius: 10px;
+    background-color: var(	--bs-light-bg-subtle);
+}
